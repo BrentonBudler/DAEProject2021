@@ -1,0 +1,26 @@
+Generally:
+- Check for typos, grammatical and punctuation errors.
+- Since it is a group assignment, you can describe the input and contributions of each individual to your project. - All your sub-heading should be well formatted (The ones having '###')
+- The presentation can be better. Your headings should be well defined and you can also check for typo and punctuation errors in your explanations.
+- Your research question should answer why you want to carry out this study.
+
+
+1. It will be a good idea if you can implement a button to toggle betwenn showing/hiding your codes (inputs) on jupyter notebook, it will make your work neater and more organized to read.
+
+2. Replace all pie charts in your work with an alternative graph type. The pie chart is not informative enough and encouraged for exploratory analysis for this study.
+
+3. At the beginning of your project, you should provide sectioning and a description of your resarch. They include headings such as executive summary,, introduction, research question,  methodology, data description, hypothesis. And at the end of this part 1, there should be a correlation between your data analysis and the research question you want to answer.
+
+4. What data-wrangling procedures did you implement in this study? How did you clean your dataset? Describe the processes if any.
+
+5. Include headings and sub-headings to show what next you want step to harness easy readability.
+
+6. For your input cells,  use a prior cell to explain what you want to achieve in the next input cell for clarity. 
+
+7. For each of the visual diagrams, make an explanation below the diagram pointing to the diagram you are explaining to avoid mismatch and missing of concepts.
+
+8. The workflow is okay, but headings should be added for easy comprehension.
+
+9. Briefly explain the relationship between wave1, wave2, and wave3 as it has been described in the study.
+
+10. Is there any correlation variables that you want to observe between the three waves?
