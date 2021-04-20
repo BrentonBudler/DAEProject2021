@@ -4,7 +4,6 @@ Generally:
 - The presentation can be better. Your headings should be well defined and you can also check for typo and punctuation errors in your explanations.
 - Your research question should answer why you want to carry out this study.
 
-
 1. It will be a good idea if you can implement a button to toggle betwenn showing/hiding your codes (inputs) on jupyter notebook, it will make your work neater and more organized to read.
 
 2. Replace all pie charts in your work with an alternative graph type. The pie chart is not informative enough and encouraged for exploratory analysis for this study.
