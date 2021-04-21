@@ -1,0 +1,12 @@
+Save with code blocks:
+
+jupyter nbconvert Part1Neat.ipynb --to html --output "Part1Neat_withcode"
+
+
+
+
+
+
+Save without codeblocks:
+
+jupyter nbconvert Part1Neat.ipynb --to html --no-input --output "Part1Neat_nocode"
