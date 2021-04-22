@@ -1,0 +1,494 @@
+<!DOCTYPE html><html><head>
+      <title>miniproject</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:////home/andrew/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.5.16/node_modules/@shd101wyy/mume/dependencies/katex/katex.min.css">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <style>
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview  ">
+      <h1 class="mume-header" id="dae-mini-project">DAE Mini-Project</h1>
+
+<h2 class="mume-header" id="overview">Overview</h2>
+
+<p>In this miniproject, you will get the opportunity to carry out a data science exercise from start to finish, applying the concepts and tools you have gained on a real-world dataset. The theme of this project is the social and economic wellness of our nation. Your job is to develop a research question \ topic which examines the relationships between some response variable and a range of predictive variables, carry out the relevant analysis, interpret and communicate your findings, using local public datasets (such as <a href="http://www.statssa.gov.za/">StatsSA</a> ). Examples of topics include (but not limited to): changes to distributions in crime, effects of corruption, changing healthcare needs, analysis of the demographics of the workforce, etc. We will be focusing on interpretable models to understand relationships between variables. Problems that deal with evaluating or improving predictive performance are prohibited, unless they are used as part of understanding the data-generating process.</p>
+<p>This project will teach you how to work in groups on a data analysis project as well as some of the &quot;softer&quot; aspects of data analysis, which includes your ability to form a compelling research question, to conduct reproducible research, and to communicate your findings effectively. Your project should be presented such that a colleague can easily follow the arguments and calculations to reproduce the same results.</p>
+<p>Some examples from previous years are attached to this document.</p>
+<h3 class="mume-header" id="key-information">Key Information</h3>
+
+<p><strong>This project will be done in groups of 4</strong>. Only a single member has to submit the deliverables. Group members will also have the opporunity to rate each-other&apos;s contribution which will be used to adjust each member&apos;s final mark. This is done to encourage the fair awarding of marks, commensurate with each member&apos;s efforts.</p>
+<p>There will be <strong>two main assessments</strong>.  The first assessment will be marked as an assignment and will not contribute to the project mark. The second assessment will  be the full final submission.</p>
+<p>In addition, <strong>you are required to submit rough drafts</strong> for the upcoming main assessments. These drafts will be visible to the entire class. This is a good opportunity to discuss the project with classmates, as well as get feedback from the tutors and myself. Failure to submit this work will result in penalties in the main assessment.</p>
+<h4 class="mume-header undefined" id="assesment-1">Assesment 1</h4>
+
+<p>Rough Draft Due Date: 09/04</p>
+<p>Due Date: 23/04</p>
+<p><strong>Submission Requirements</strong></p>
+<p>You will be required to submit a single jupyter notebook containing:</p>
+<ul>
+<li>Title</li>
+<li>Introduction</li>
+<li>Data Description</li>
+<li>Data Wrangling</li>
+<li>Exploratory Analyses</li>
+</ul>
+<h4 class="mume-header undefined" id="assesment-2">Assesment 2</h4>
+
+<p>Rough Draft Due Date: 21/05</p>
+<p>Due Date: 11/06</p>
+<p><strong>Submission Requirements:</strong></p>
+<ul>
+<li>You will be required to submit a single jupyter notebook and your data to Moodle. You may include a supplement notebook if desired.</li>
+<li>The jupyter notebook must contain all of the sections of your report (see Sections below) together with the code.</li>
+<li>The notebook must be able to run from start to finish without generating errors - these will be severly penalised (see Assessment below).</li>
+</ul>
+<h3 class="mume-header" id="asking-the-question">Asking the Question</h3>
+
+<p>One of the most time consuming parts of the project is settling on an interesting question, which can easily take between 15-20 hours. As discussed in the course, the data science process is iterative and nonlinear, and so you may have to traverse the entire process (more than once) before settling on a final question \ topic. It is best to start as early possible.</p>
+<p>It is worth emphasising that an interesting question should not be answerable by basic plots and statistics, eg. plotting the level of some variable over time, or calculating proportions over different groups. Types of questions that you can ask, and the characteristics of good questions will be covered in class. For more information, see the relevant sections in the books <em>Excutive Data Science</em> and <em>The Art of Data Science</em>.</p>
+<p>It is best to start your search for a research question with a broadly defined investigation such as &quot;an investigation into factors that explain (something)&quot;, and then identify more specific research questions.</p>
+<p>Examples of specific research questions include (but not limited to):</p>
+<ul>
+<li>The following explanation for some effect has been reported in (some resource). We test this relationship, and examine if it changes over time.</li>
+<li>The relationship between (variables) is argued to be (some way). We examine how this relationship is affected by the presence of (new variables)</li>
+<li>The distribution of the response variable appears to show different groups.
+<ul>
+<li>Can the groupings be caused by (list of variables)?</li>
+<li>OR, Can we find a set of variables which explains this grouping?</li>
+</ul>
+</li>
+<li>An analysis of interactions in datasets to explain (some variable)</li>
+</ul>
+<h3 class="mume-header" id="reproducible-research">Reproducible Research</h3>
+
+<p>A <strong>reproducible</strong> set of research means that another person who conducts the same analyses on the same dataset by following your methodology will reach the same results as you did. For your research to be reproducible, you will need to publish your software and the dataset that you used. Code needs to be clearly annotated and written for readability rather than efficiency. Reproducibility is usually mentioned along with replicability. <strong>Replicability</strong> is more of a statistical concept and refers to results that can be verified on independent datasets. In contrast, non-replicable results arise from data-dredging (eg. overfitting) and are specific to the dataset analysed.</p>
+<p>See the following articles for more information:<br>
+<a href="https://academic.oup.com/biostatistics/article/10/3/405/293660">https://academic.oup.com/biostatistics/article/10/3/405/293660</a></p>
+<h2 class="mume-header" id="assessment">Assessment</h2>
+
+<h3 class="mume-header" id="section-content-100">Section Content (100)</h3>
+
+<ol start="0">
+<li>
+<p>Title (1)</p>
+</li>
+<li>
+<p>Executive Summary \ Highlights (7):</p>
+<ul>
+<li>What is the purpose of this notebook? (1)</li>
+<li>What is being modelled? (2)</li>
+<li>What are the main results? (1)</li>
+<li>Limitations (3)</li>
+</ul>
+</li>
+<li>
+<p>(Brief) Introduction (10):</p>
+<ul>
+<li>Problem Context and Motivation (3)</li>
+<li>Describe Questions (4)</li>
+<li>Overview of Methodology (2)</li>
+<li>Section Contents Overview (1)</li>
+</ul>
+</li>
+<li>
+<p>Data Description (20):</p>
+<ul>
+<li>Origin (1)</li>
+<li>Contents (Who, What, Where)  (3)</li>
+<li>Date Collected (When) (1)</li>
+<li>Collection Method (How) (2)</li>
+<li>Dataset Size (rows and columns) (1)</li>
+<li>Date Downloaded (1)</li>
+<li>Validations (3)</li>
+<li>Aspects of Data Quality (see Class Notes) (5)</li>
+<li>Ability to Answer Question (3)</li>
+</ul>
+</li>
+<li>
+<p>Data Wrangling (10):</p>
+<ul>
+<li>Tidyness of Data (4)</li>
+<li>Techniques: Joins, removing duplicates, cleaning variables, changing types, aggregations (4)</li>
+<li>Sense checks after cleaning (raw vs cleaned) (2)</li>
+</ul>
+</li>
+<li>
+<p>Exploratory Analyses (10):</p>
+<ul>
+<li>Choice of Initial Visualisations and Statistics (3)</li>
+<li>Appropriate Measures (2)</li>
+<li>Relevance to Questions (3)</li>
+<li>Consideration of Accuracy (2)</li>
+</ul>
+</li>
+<li>
+<p>Model Fitting (15):</p>
+<ul>
+<li>Description of Models (ref questions) (2)</li>
+<li>Description of Methodology (3)</li>
+<li>Reasonable Assumptions (1)</li>
+<li>Data Splitting (4) (but -10 if explore and test on same data)</li>
+<li>Model Selection (3)</li>
+<li>Residual Analysis (+4 additional marks available)</li>
+<li>Sensibility checks</li>
+<li>Outputs of Model Fitting, and Description (2)</li>
+</ul>
+</li>
+<li>
+<p>Hypothesis Testing (10):</p>
+<ul>
+<li>Description of Tests (2)</li>
+<li>Description of Testing Methodology (2)</li>
+<li>Reasonableness of Assumptions (1)</li>
+<li>Appropriateness of Tests (2)</li>
+<li>Hypothesis Test Calculations (2)</li>
+<li>Sensibility checks on tests (1)</li>
+</ul>
+</li>
+<li>
+<p>Interpreting Results (10):</p>
+<ul>
+<li>All relevant metrics considered (3)</li>
+<li>Correctness of interpretation (3)</li>
+<li>Did results meet expectations? Why? (4)</li>
+<li>Consideration of impact of:
+<ul>
+<li>Quality of data</li>
+<li>Assumptions</li>
+<li>Testing methodology</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Conclusion (7):</p>
+<ul>
+<li>Answers to Research Questions (4)</li>
+<li>Next Steps described and explained (3)</li>
+</ul>
+</li>
+</ol>
+<h3 class="mume-header" id="communication-and-reproducibility-50">Communication and Reproducibility (50)</h3>
+
+<p>Presentation and Communication (25) (all sections to be complete for full marks)</p>
+<p>Checklist</p>
+<ul>
+<li>appropriate use of tables and figures</li>
+<li>all figures and tables labelled with captions indicating items of interest</li>
+<li>plots are well presented: number of graphs on a single plot, use of multiple panes, etc.</li>
+<li>irrelevant information not presented</li>
+<li>long code blocks are hidden</li>
+<li>consistency of format</li>
+<li>appropriate use of colour</li>
+</ul>
+<p>Writing Style:</p>
+<ul>
+<li>coherent argument in clear english</li>
+<li>logical flow of argument</li>
+<li>main points and findings are clear</li>
+<li>all assumptions clearly indicated</li>
+<li>conciseness (no irrelevant points)</li>
+<li>appropriate use of subsections</li>
+<li>sections and figures labelled and referenced throughout text</li>
+<li>sentences and paragraphs are appropriate length</li>
+</ul>
+<p>Reproducibility : (25) (all sections to be complete for full marks)</p>
+<p>Checklist</p>
+<ul>
+<li>
+<p>Data submitted</p>
+</li>
+<li>
+<p>notebook runs without errors</p>
+</li>
+<li>
+<p>notebook produces the same results on differrent runs</p>
+</li>
+<li>
+<p>all user inputed values clearly indicated</p>
+</li>
+<li>
+<p>all code commented and clearly described</p>
+<ul>
+<li>Wrangling Code</li>
+<li>Exploratory Analysis</li>
+<li>Model Fitting</li>
+<li>Hypothesis Testing</li>
+<li>Graphs and Tables</li>
+</ul>
+</li>
+<li>
+<p>Sensibility Checks at each stage of process</p>
+</li>
+<li>
+<p>Potential errors clearly indicated</p>
+</li>
+</ul>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
