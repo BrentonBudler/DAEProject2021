@@ -22,12 +22,12 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,6.0,3500.0,Yes,,,4.0,6.0,,3500.0,,Regular job,Technicians and associate professionals
 Yes,,,5.0,7.0,7000.0,Yes,,,,,,7000.0,,Regular job,Professionals
 Yes,,,5.0,8.0,4500.0,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Regular job,Elementary occupations
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,Yes,,7.0,6.0,2500.0,No,No,No - I did nothing,,,,,No,,
 No,No,Yes,2.0,6.0,500.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,12.0,,Yes,,,4.0,12.0,,8000.0,,Casual work,Technicians and associate professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,1.0,450.0,No,No,Yes,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,1.0,450.0,No,No,Yes,,,,,,Self-employed,
 Yes,,,5.0,7.0,,No,No,No - I did nothing,,,,,Yes,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,4.0,1900.0,Yes,,,2.0,9.0,,600.0,,Casual work,Elementary occupations
@@ -102,7 +102,7 @@ Yes,,,5.0,8.0,2143.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,,Yes,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
-Yes,,,7.0,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,7.0,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,7000.0,Yes,,,5.0,8.0,,,,Regular job,Craft and related trades workers
 ,,,,,,Yes,,,5.0,8.0,,,,Casual work,Craft and related trades workers
@@ -132,7 +132,7 @@ Yes,,,5.0,7.0,,No,No,No - I did nothing,0.0,0.0,,,Yes,Regular job,Professionals
 Yes,,,5.0,8.0,21000.0,Yes,,,5.0,8.0,,21000.0,,Regular job,Managers
 No,No,Yes,7.0,10.0,10000.0,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,I run a business,
 Yes,,,4.0,12.0,2000.0,No,No,No - I did nothing,,,,,Yes,Regular job,Craft and related trades workers
 Yes,,,5.0,4.0,,Yes,,,,,,,,Regular job,Professionals
 Yes,,,6.0,8.0,3000.0,Yes,,,6.0,8.0,,1000.0,,Casual work,Elementary occupations
@@ -162,7 +162,7 @@ Yes,,,5.0,,3500.0,No,Yes,,2.0,,,,,Casual work,Craft and related trades workers
 Yes,,,5.0,9.0,4200.0,Yes,,,5.0,8.0,,4200.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,2.0,5.0,,,Yes,Casual work,Elementary occupations
 Yes,,,4.0,12.0,5000.0,Yes,,,4.0,12.0,,400.0,,Casual work,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I'm employed,,,,,,Casual work,Not applicable
@@ -262,11 +262,11 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,Yes,,,4.0,12.0,,,,Regular job,Service and sales workers
-No,Yes,,3.0,4.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
-Yes,,,6.0,8.0,,Yes,,,,,Nothing / Lost money,,,Self-employed,
+No,Yes,,3.0,4.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
+Yes,,,6.0,8.0,,Yes,,,,,,,,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,7.0,15.0,5000.0,Yes,,,7.0,8.0,,2500.0,,Regular job,Service and sales workers
-Yes,,,5.0,8.0,3500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,3500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,3.0,5.0,2200.0,Yes,,,3.0,5.0,,2200.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,8.0,,Yes,,,7.0,8.0,,,,Regular job,"Plant and machine operators, and assemblers"
@@ -289,7 +289,7 @@ Yes,,,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,4000.0,Yes,,,0.0,0.0,,,,Regular job,
-No,Yes,,7.0,8.0,1600.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+No,Yes,,7.0,8.0,1600.0,No,No,No - I'm employed,,,,,,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -318,9 +318,9 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,10.0,4000.0,No,No,No - I'm employed,,,,4000.0,,Regular job,Managers
 Yes,,,5.0,6.0,,Yes,,,5.0,6.0,,,,Regular job,Elementary occupations
-Yes,,,5.0,4.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,4.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,9.0,2500.0,No,No,No - I'm employed,5.0,0.0,,0.0,,Regular job,
-Yes,,,5.0,8.0,1500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,1500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,9.0,700.0,Yes,,,2.0,0.0,,700.0,,Casual work,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -371,7 +371,7 @@ Yes,,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,2300.0,No,No,No - I did nothing,,,,,,,
 Yes,,,5.0,7.0,15000.0,Yes,,,5.0,7.0,,15000.0,,Regular job,Professionals
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Not Employed
 Yes,,,7.0,8.0,15000.0,No,No,No - I'm employed,0.0,0.0,,10000.0,,Regular job,Elementary occupations
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -448,7 +448,7 @@ No,Yes,,1.0,9.0,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,9300.0,Yes,,,,,,9330.0,,Regular job,Technicians and associate professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,,,,,No,No - I did nothing,,,,,Yes,Regular job,Professionals
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,,Yes,,,0.0,0.0,,,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -492,7 +492,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,0.0,Yes,Regular job,Service and sales workers
 Yes,,,5.0,8.0,9000.0,No,No,No - I did nothing,,,,9000.0,Yes,Regular job,Service and sales workers
-No,No,Yes,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,,,,No,No,Yes,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -572,7 +572,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,1500.0,Yes,,,5.0,8.0,,2000.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,1.0,,1500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,1.0,,1500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,,300.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -598,7 +598,7 @@ Yes,,,5.0,3.0,3500.0,Yes,,,3.0,3.0,,,,Casual work,Technicians and associate prof
 Yes,,,5.0,8.0,,Yes,,,5.0,8.0,,,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,6.0,8.0,4000.0,No,Yes,,0.0,0.0,,3900.0,,Regular job,Service and sales workers
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,27000.0,Yes,,,5.0,8.0,,27000.0,,Regular job,Professionals
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -612,8 +612,8 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Regular job,Technic
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,4.0,8.0,1500.0,No,No,No - I did nothing,,,,,,,
 Yes,,,4.0,8.0,4500.0,No,No,No - I'm employed,,,,4500.0,,Casual work,Professionals
-Yes,,,5.0,8.0,,No,No,Yes,,,Nothing / Lost money,,,Self-employed,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,,No,No,Yes,,,,,,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,7.0,5000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,2.0,8.0,780.0,No,Yes,,0.0,0.0,,780.0,,Regular job,Clerical support workers
 No,Yes,,5.0,8.0,2500.0,No,No,No - I did nothing,,,,,,,
@@ -748,7 +748,7 @@ Yes,,,5.0,11.0,6000.0,Yes,,,5.0,11.0,,6900.0,,Regular job,Clerical support worke
 Yes,,,5.0,7.0,18000.0,No,Yes,,5.0,7.0,,18000.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,,,,,,Self-employed,
 No,No,Yes,7.0,4.0,15.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,12.0,250.0,Yes,,,4.0,12.0,,4700.0,,Regular job,Service and sales workers
 No,No,No - I'm employed,,,,No,,No - I did nothing,,,,,No,,
@@ -771,7 +771,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,5.0,8.0,3000.0,No,Yes,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,7.0,8.0,,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,7.0,8.0,,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Casual work,Craft and related trades workers
 Yes,,,5.0,8.0,1500.0,Yes,,,5.0,8.0,,1500.0,,Regular job,Elementary occupations
 Yes,,,6.0,8.0,4000.0,Yes,,,6.0,8.0,,5000.0,,Regular job,Service and sales workers
@@ -832,7 +832,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,7.0,1500.0,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
-No,Yes,,5.0,,800.0,No,No,Yes,,,Nothing / Lost money,,,Self-employed,
+No,Yes,,5.0,,800.0,No,No,Yes,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,5.0,1300.0,Yes,,,3.0,5.0,,1300.0,,Casual work,Service and sales workers
 No,No,No - I did nothing,,,,No,No,,,,,,,,
@@ -1016,13 +1016,13 @@ Yes,,,5.0,8.0,3600.0,Yes,,,5.0,8.0,,1300.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,9.0,2000.0,No,No,No - I did nothing,,,,,Yes,Regular job,Craft and related trades workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,4.0,200.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,4.0,200.0,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,7.0,1690.0,No,No,No - I did nothing,0.0,0.0,,1690.0,Yes,Regular job,Elementary occupations
 Yes,,,3.0,8.0,780.0,No,No,Yes,0.0,0.0,,780.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,8.0,1700.0,No,No,No - I'm employed,,,,1700.0,,Regular job,Elementary occupations
-Yes,,,3.0,,500.0,No,Yes,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,3.0,,500.0,No,Yes,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,Yes,3.0,5.0,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,12.0,5000.0,Yes,,,7.0,12.0,,5000.0,,Regular job,
@@ -1047,7 +1047,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,8.0,25000.0,Yes,,,4.0,8.0,,25000.0,,Regular job,"Plant and machine operators, and assemblers"
 Yes,,,5.0,8.0,12000.0,Yes,,,,,,12000.0,,Regular job,Professionals
-Yes,,,7.0,0.0,20000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+Yes,,,7.0,0.0,20000.0,No,No,No - I did nothing,,,,,Yes,I run a business,
 Yes,,,,,,No,No,No - I did nothing,,,,7000.0,Yes,Regular job,"Plant and machine operators, and assemblers"
 Yes,,,5.0,8.0,4500.0,No,No,No - I'm employed,,,,4000.0,,Regular job,Technicians and associate professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Regular job,Craft and related trades workers
@@ -1130,7 +1130,7 @@ Yes,,,5.0,5.0,2100.0,No,No,No - I'm employed,5.0,5.0,,2100.0,,Regular job,Servic
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,1.0,8.0,750.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,7.0,5000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,7.0,5000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,7.0,14.0,15000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,2000.0,Yes,,,5.0,8.0,,2000.0,,Regular job,Elementary occupations
 Yes,,,5.0,12.0,3800.0,No,Yes,,5.0,12.0,,4900.0,,Casual work,Service and sales workers
@@ -1158,7 +1158,7 @@ No,Yes,,7.0,,1500.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,8.0,1400.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,9.0,,No,No,No - I'm employed,0.0,0.0,,0.0,,Regular job,Professionals
-Yes,,,5.0,8.0,2500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,2500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,8.0,2500.0,Yes,,,5.0,8.0,,7200.0,,Regular job,Managers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -1325,7 +1325,7 @@ Yes,,,6.0,8.0,3500.0,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Regular job,Cleri
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,,No - I did nothing,,,,No,,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,7.0,1700.0,No,No,No - I did nothing,,,500.0,,Yes,I run a business,
-No,No,Yes,1.0,6.0,600.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,1.0,6.0,600.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,6.0,7.0,2000.0,Yes,,,,,4000.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
@@ -1376,12 +1376,12 @@ Yes,,,3.0,12.0,8000.0,Yes,,,,,,400.0,,Regular job,
 Yes,,,5.0,8.0,4200.0,Yes,,,5.0,8.0,,,,Casual work,Craft and related trades workers
 Yes,,,5.0,6.0,2131.0,No,No,No - I'm employed,,,,2131.0,,Regular job,Professionals
 Yes,,,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,1.0,6.0,600.0,No,No,Yes,,,Nothing / Lost money,,,Self-employed,
+No,No,Yes,1.0,6.0,600.0,No,No,Yes,,,,,,Self-employed,
 No,No,Yes,7.0,12.0,,No,No,Yes,,,,,,Self-employed,
 Yes,,,2.0,6.0,1600.0,Yes,,,2.0,6.0,,1600.0,,Regular job,Elementary occupations
 Yes,,,6.0,12.0,4700.0,Yes,,,6.0,12.0,,4700.0,,Regular job,Service and sales workers
 Yes,,,6.0,11.0,1800.0,Yes,,,,,8500.0,,,Self-employed,
-No,No,Yes,2.0,7.0,700.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,2.0,7.0,700.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,,,,No,No,No - I did nothing,,,,,Yes,Regular job,Elementary occupations
 Yes,,,4.0,12.0,,Yes,,,2.0,12.0,,2100.0,,Regular job,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -1418,9 +1418,9 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,12.0,9400.0,Yes,,,7.0,12.0,,9500.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,4.0,6.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
-Yes,,,7.0,8.0,4000.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
-No,No,Yes,7.0,8.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,4.0,6.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
+Yes,,,7.0,8.0,4000.0,No,No,No - I'm employed,,,,,,Self-employed,
+No,No,Yes,7.0,8.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -1560,7 +1560,7 @@ Yes,,,5.0,8.0,1500.0,Yes,,,2.0,8.0,,1500.0,,Regular job,Elementary occupations
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,6.0,6.0,2592.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,20000.0,Yes,,,5.0,8.0,,,,Regular job,"Plant and machine operators, and assemblers"
-No,Yes,,7.0,,3700.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,Yes,,7.0,,3700.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,Yes,,,,,4000.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,9.0,5000.0,No,No,No - I'm employed,0.0,0.0,,2200.0,,Regular job,Professionals
@@ -1620,7 +1620,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,2.0,7.0,789.0,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,7.0,14.0,2000.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+No,No,Yes,7.0,14.0,2000.0,Yes,,,,,,,,Self-employed,
 Yes,,,5.0,8.0,,No,No,No - I did nothing,,,,,,,
 Yes,,,,,,No,No,No - I did nothing,2.0,5.0,,,Yes,Casual work,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -1641,14 +1641,14 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,4.0,4.0,1300.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,Yes,,,3.0,8.0,,500.0,,Casual work,"Skilled agricultural, forestry and fishery workers"
-Yes,,,7.0,7.0,1000.0,No,Yes,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,7.0,7.0,1000.0,No,Yes,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,,Yes,,Elementary occupations
 Yes,,,7.0,,1500.0,Yes,,,7.0,,,1500.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,3.0,,300.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,Yes,,2.0,3.0,,,,Casual work,Elementary occupations
 No,Yes,,6.0,10.0,150.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
-Yes,,,6.0,9.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,6.0,9.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,5.0,8.0,,,Yes,Regular job,Technicians and associate professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,Yes,,,,,7040.0,,,Self-employed,
@@ -1743,7 +1743,7 @@ No,No,No - I did nothing,,,,Yes,,,2.0,3.0,,,,Casual work,Craft and related trade
 Yes,,,7.0,9.0,16000.0,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,,,2800.0,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,0.0,0.0,0.0,No,No,Yes,,,Nothing / Lost money,,,I run a business,
+No,No,Yes,0.0,0.0,0.0,No,No,Yes,,,,,,I run a business,
 Yes,,,7.0,8.0,3500.0,Yes,,,2.0,4.0,,,,Casual work,Clerical support workers
 No,No,Yes,6.0,9.0,3600.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -1779,7 +1779,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 Yes,,,5.0,8.0,6300.0,Yes,,,5.0,8.0,,6300.0,,Casual work,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,700.0,Yes,Casual work,Craft and related trades workers
 No,No,No - I did nothing,,,,Yes,,,5.0,6.0,,,,Regular job,Craft and related trades workers
-Yes,,,3.0,7.0,500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,3.0,7.0,500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,10.0,3000.0,No,No,No - I did nothing,,,,,,,
 Yes,,,4.0,8.0,2500.0,No,No,No - I did nothing,,,,,No,,
 No,Yes,,3.0,3.0,1500.0,No,No,No - I did nothing,,,,,No,,
@@ -1807,7 +1807,7 @@ No,No,No - I did nothing,,,,Yes,,,,,600.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 "No, I'm retired",,,,,,,,,,,,,,,
-No,No,Yes,5.0,1.0,150.0,No,No,Yes,,,Nothing / Lost money,,,I run a business,
+No,No,Yes,5.0,1.0,150.0,No,No,Yes,,,,,,I run a business,
 Yes,,,5.0,8.0,,Yes,,,5.0,7.0,,,,Regular job,Clerical support workers
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Not Employed
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -1929,7 +1929,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,2.0,,700.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,3.0,8.0,800.0,No,No,No - I did nothing,,,,,No,,
-No,Yes,,7.0,,2000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,Yes,,7.0,,2000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,5.0,8.0,8000.0,No,No,No - I did nothing,,,,,Yes,Regular job,Craft and related trades workers
 Yes,,,4.0,8.0,14000.0,No,No,No - I did nothing,1.0,8.0,,3000.0,Yes,Regular job,Service and sales workers
@@ -1941,7 +1941,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,8.0,2600.0,Yes,,,7.0,8.0,,,,Casual work,"Plant and machine operators, and assemblers"
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,7.0,,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,1.0,7.0,350.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,Yes,,1.0,7.0,350.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,7.0,8.0,,Yes,,,,,,,,Regular job,Professionals
 Yes,,,4.0,7.0,,Yes,,,0.0,0.0,,12000.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -2047,7 +2047,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 No,Yes,,,,2000.0,No,No,No - I'm employed,,,1500.0,,,Self-employed,
-Yes,,,5.0,7.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,7.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,8.0,,No,No,No - I did nothing,,,,,,Regular job,
 Yes,,,5.0,8.0,19000.0,Yes,,,5.0,3.0,,19000.0,,Regular job,Professionals
 No,No,Yes,2.0,5.0,,No,No,No - I did nothing,,,,,No,,
@@ -2212,7 +2212,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,8.0,3000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,8.0,2500.0,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -2282,7 +2282,7 @@ Yes,,,6.0,12.0,4100.0,Yes,,,,,,0.0,,Regular job,Not applicable
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,Yes,,,600.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,8.0,10000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,10000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I'm employed,,,,,,,,,,,,,
 No,No,No - I'm employed,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -2315,7 +2315,7 @@ No,No,Yes,5.0,24.0,,No,No,Yes,,,,,,Self-employed,
 Yes,,,5.0,10.0,3400.0,Yes,,,5.0,10.0,,3400.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
-Yes,,,5.0,12.0,3000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+Yes,,,5.0,12.0,3000.0,No,No,No - I did nothing,,,,,Yes,I run a business,
 Yes,,,3.0,8.0,1900.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,2800.0,Yes,,,5.0,8.0,,,,Regular job,Elementary occupations
 No,Yes,,3.0,8.0,400.0,No,Yes,,,,800.0,,,Self-employed,
@@ -2498,7 +2498,7 @@ Yes,,,2.0,8.0,800.0,Yes,,,2.0,,,800.0,,Casual work,Elementary occupations
 No,Yes,,3.0,8.0,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,6.0,8.0,3500.0,Yes,,,6.0,8.0,,2800.0,,Casual work,Elementary occupations
-No,No,Yes,7.0,0.0,190.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,7.0,0.0,190.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,3700.0,Yes,,,3.0,8.0,,845.0,,Regular job,Craft and related trades workers
@@ -2542,7 +2542,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,6.0,16000.0,No,No,No - I did nothing,0.0,0.0,,16000.0,Yes,Regular job,Professionals
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Not Employed
 No,No,Yes,1.0,2.0,300.0,No,,Yes,,,300.0,,,I run a business,
-No,No,Yes,5.0,5.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,5.0,5.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,Yes,,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,,Yes,,,5.0,8.0,,,,Regular job,Professionals
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -2564,7 +2564,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,5.0,8.0,1500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,Yes,,5.0,8.0,1500.0,No,No,No - I did nothing,,,,,Yes,I run a business,
 Yes,,,6.0,7.0,2500.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -2679,7 +2679,7 @@ Yes,,,3.0,12.0,690.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,6000.0,Yes,,,5.0,8.0,,6000.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,8.0,2500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,2500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,8.0,,Yes,,,5.0,8.0,,,,Casual work,Craft and related trades workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -2715,7 +2715,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,5.0,5.0,4000.0,Yes,,,5.0,9.0,,,,Regular job,"Plant and machine operators, and assemblers"
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,2.0,8.0,700.0,No,No,No - I did nothing,,,,,,,
-Yes,,,5.0,9.0,,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,9.0,,Yes,,,,,,,,Self-employed,
 Yes,,,5.0,11.0,9000.0,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,7.0,8.0,1200.0,Yes,,,,,1200.0,,,I run a business,
@@ -2737,7 +2737,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,5.0,6.0,800.0,Yes,,,,,,800.0,,Casual work,Service and sales workers
 Yes,,,5.0,6.0,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,4.0,5.0,,No,Yes,,,,Nothing / Lost money,,,Self-employed,
+No,Yes,,4.0,5.0,,No,Yes,,,,,,,Self-employed,
 No,No,No - I'm employed,,,,No,No,No - I'm employed,,,,,,,Not Employed
 Yes,,,5.0,12.0,2700.0,No,No,No - I'm employed,0.0,0.0,,9500.0,,Casual work,"Skilled agricultural, forestry and fishery workers"
 Yes,,,7.0,8.0,5000.0,Yes,,,,,5500.0,,,Self-employed,
@@ -2745,7 +2745,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,,,4000.0,Yes,Regular jo
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,12.0,700.0,No,No,No - I'm employed,3.0,4.0,,,,Casual work,Service and sales workers
-Yes,,,5.0,8.0,1000.0,No,Yes,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,8.0,1000.0,No,Yes,,,,,,,Self-employed,
 No,No,No - I'm employed,,,,No,No,No - I'm employed,,,,,,Regular job,Managers
 Yes,,,5.0,8.0,3500.0,Yes,,,5.0,8.0,,3500.0,,Regular job,Technicians and associate professionals
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -2807,7 +2807,7 @@ Yes,,,4.0,12.0,14000.0,Yes,,,4.0,12.0,,14000.0,,Regular job,Technicians and asso
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,2.0,7.0,740.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,4.0,2400.0,No,No,No - I did nothing,,,,,No,,
-Yes,,,0.0,0.0,,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,0.0,0.0,,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 Yes,,,5.0,8.0,900.0,Yes,,,5.0,9.0,,,,Regular job,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -3091,7 +3091,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,4000.0,Yes,,,5.0,8.0,,2000.0,,Regular job,Clerical support workers
 "No, I'm retired",,,,,,,,,,,,,,,
-Yes,,,6.0,6.0,800.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+Yes,,,6.0,6.0,800.0,No,No,No - I'm employed,,,,,,Self-employed,
 Yes,,,5.0,8.0,2700.0,No,Yes,,,,,,,Casual work,Technicians and associate professionals
 Yes,,,7.0,12.0,7500.0,Yes,,,7.0,8.0,,7500.0,,Regular job,Technicians and associate professionals
 Yes,,,5.0,,8500.0,Yes,,,,,,8500.0,,Regular job,Professionals
@@ -3209,7 +3209,7 @@ No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Not Empl
 No,No,No - I'm employed,0.0,,15000.0,No,No,No - I'm employed,1.0,,,15000.0,,,Not Employed
 Yes,,,2.0,4.0,1600.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,,Yes,,,,,,,,Self-employed,
-No,Yes,,4.0,1.0,1000.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+No,Yes,,4.0,1.0,1000.0,No,No,No - I'm employed,,,,,,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,Yes,,2.0,3.0,100.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Not Employed
@@ -3389,7 +3389,7 @@ Yes,,,5.0,7.0,3800.0,Yes,,,5.0,7.0,,3800.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,Yes,3.0,2.0,570.0,No,No,No - I did nothing,,,,,No,,
-Yes,,,6.0,10.0,2500.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+Yes,,,6.0,10.0,2500.0,No,No,No - I'm employed,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,8.0,780.0,No,No,No - I'm employed,4.0,8.0,,780.0,,Regular job,Clerical support workers
@@ -3401,7 +3401,7 @@ Yes,,,5.0,8.0,50000.0,Yes,,,5.0,8.0,,50000.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,12000.0,No,No,No - I did nothing,,,,0.0,Yes,Regular job,Service and sales workers
 Yes,,,5.0,12.0,15000.0,No,No,No - I did nothing,,,,,,,
-Yes,,,6.0,,,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,6.0,,,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,6.0,8.0,10000.0,Yes,,,6.0,8.0,,12000.0,,Regular job,Managers
 Yes,,,6.0,9.0,1200.0,No,Yes,,,,,,,Casual work,Craft and related trades workers
@@ -3508,7 +3508,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,2400.0,No,No,No - I did nothing,,,,2400.0,Yes,Regular job,Clerical support workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,7.0,9.0,200000.0,No,No,Yes,,,Nothing / Lost money,,,I run a business,
+No,No,Yes,7.0,9.0,200000.0,No,No,Yes,,,,,,I run a business,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -3517,7 +3517,7 @@ Yes,,,,,,No,No,Yes,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,5.0,3.0,1120.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,Yes,,5.0,3.0,1120.0,No,No,No - I did nothing,,,,,Yes,I run a business,
 No,No,Yes,7.0,10.0,800.0,No,No,Yes,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,5.0,8.0,100.0,No,No,No - I did nothing,,,,,No,,
@@ -3608,7 +3608,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,6.0,1500.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,Yes,,7.0,24.0,,,,Casual work,Service and sales workers
-Yes,,,6.0,6.0,2000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,6.0,6.0,2000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -3676,7 +3676,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,6.0,300.0,No,No,Yes,2.0,5.0,,,,Casual work,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,3600.0,No,No,No - I did nothing,,,,,No,,
-Yes,,,3.0,7.0,0.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,3.0,7.0,0.0,Yes,,,,,,,,Self-employed,
 Yes,,,5.0,8.0,20000.0,Yes,,,5.0,9.0,,20000.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,12000.0,No,No,No - I did nothing,,,,,No,,
@@ -3959,7 +3959,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,3600.0,Yes,,,5.0,8.0,,,,Casual work,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,7.0,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,3.0,5.0,150.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,No,Yes,3.0,5.0,150.0,No,No,No - I did nothing,,,,,Yes,I run a business,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Regular job,Clerical support workers
 Yes,,,5.0,4.0,1500.0,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -4035,7 +4035,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 ,,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,9.0,2500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,9.0,2500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,Yes,,,5.0,6.0,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -4062,7 +4062,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,4.0,8.0,500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,Yes,,4.0,8.0,500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,8.0,1800.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,12.0,8500.0,Yes,,,5.0,12.0,,8500.0,,Regular job,"Plant and machine operators, and assemblers"
@@ -4093,7 +4093,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,1200.0,Yes,,,5.0,8.0,,,,Casual work,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,5.0,6.0,450.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,Yes,,5.0,6.0,450.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -4194,7 +4194,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,0.0,0.0,800.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,3400.0,Yes,,,3.0,4.0,,3400.0,,Casual work,Technicians and associate professionals
-Yes,,,2.0,3.0,150.0,Yes,,,,,Nothing / Lost money,,,I run a business,
+Yes,,,2.0,3.0,150.0,Yes,,,,,,,,I run a business,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,6.0,11.0,1900.0,No,No,No - I did nothing,0.0,0.0,,1900.0,Yes,Regular job,Clerical support workers
@@ -4202,7 +4202,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,6.0,8.0,3000.0,Yes,,,0.0,0.0,,,,Casual work,Clerical support workers
-No,No,No - I did nothing,,,,No,No,No - I'm employed,,,Nothing / Lost money,,,I run a business,
+No,No,No - I did nothing,,,,No,No,No - I'm employed,,,,,,I run a business,
 Yes,,,2.0,12.0,,Yes,,,0.0,0.0,,,,Casual work,Craft and related trades workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,8.0,1900.0,No,No,No - I did nothing,,,,,,,
@@ -4391,7 +4391,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,,7000.0,Yes,,,5.0,6.0,,5000.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,1.0,8.0,12000.0,No,No,Yes,,,Nothing / Lost money,,,Self-employed,
+Yes,,,1.0,8.0,12000.0,No,No,Yes,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,6.0,3500.0,No,No,No - I did nothing,,,,4000.0,Yes,Regular job,Professionals
@@ -4465,11 +4465,11 @@ Yes,,,5.0,9.0,1500.0,No,No,Yes,0.0,0.0,,,,Regular job,Service and sales workers
 Yes,,,4.0,12.0,15000.0,Yes,,,4.0,12.0,,15000.0,,Regular job,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I'm employed,,,,,,Casual work,Elementary occupations
 Yes,,,3.0,5.0,5500.0,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,8.0,17000.0,No,No,No - I'm employed,,,Nothing / Lost money,,,I run a business,
-No,Yes,,6.0,13.0,0.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,17000.0,No,No,No - I'm employed,,,,,,I run a business,
+No,Yes,,6.0,13.0,0.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,3.0,9.0,1000.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,6.0,8.0,,Yes,,,3.0,4.0,,,,Regular job,Elementary occupations
 Yes,,,5.0,8.0,8000.0,No,No,No - I'm employed,5.0,8.0,,7000.0,,Regular job,Professionals
 Yes,,,5.0,8.0,1300.0,Yes,,,1.0,3.0,,,,Casual work,Elementary occupations
@@ -4529,7 +4529,7 @@ Yes,,,5.0,9.0,2200.0,No,No,No - I'm employed,,,,2200.0,,Regular job,Elementary o
 Yes,,,5.0,8.0,2700.0,No,No,No - I did nothing,0.0,0.0,,,Yes,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,8.0,4500.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,8.0,4500.0,No,No,No - I'm employed,,,,,,Self-employed,
 Yes,,,5.0,8.0,10000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,15000.0,No,No,No - I'm employed,0.0,0.0,,15000.0,,Regular job,Clerical support workers
 Yes,,,5.0,8.0,2500.0,Yes,,,5.0,8.0,,2500.0,,Regular job,Elementary occupations
@@ -4550,7 +4550,7 @@ No,Yes,,0.0,0.0,0.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,6.0,12.0,,Yes,,,6.0,12.0,,,,Casual work,Service and sales workers
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,3.0,6.0,,No,Yes,,,,Nothing / Lost money,,,Self-employed,
+No,No,Yes,3.0,6.0,,No,Yes,,,,,,,Self-employed,
 Yes,,,7.0,,100.0,No,No,No - I did nothing,0.0,0.0,,,Yes,Casual work,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -4630,7 +4630,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Not applicable
 Yes,,,,,3600.0,,,,,,,,,,
 No,No,No - I'm employed,5.0,9.0,6800.0,No,No,No - I'm employed,5.0,9.0,,,,,Craft and related trades workers
-No,No,Yes,6.0,9.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,No,Yes,6.0,9.0,,No,No,No - I did nothing,,,,,Yes,I run a business,
 Yes,,,3.0,8.0,4500.0,Yes,,,,,1800.0,,,Self-employed,
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -4747,7 +4747,7 @@ Yes,,,7.0,7.0,750.0,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,7.0,8.0,8000.0,No,No,No - I did nothing,,,,,Yes,Regular job,Service and sales workers
 Yes,,,5.0,12.0,30000.0,Yes,,,5.0,12.0,,5000.0,,Regular job,Technicians and associate professionals
-Yes,,,6.0,12.0,3000.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,6.0,12.0,3000.0,Yes,,,,,,,,Self-employed,
 Yes,,,3.0,11.0,12000.0,Yes,,,3.0,11.0,,7.0,,Regular job,Service and sales workers
 Yes,,,5.0,12.0,9000.0,Yes,,,5.0,12.0,,9000.0,,Regular job,Professionals
 Yes,,,5.0,5.0,6100.0,Yes,,,5.0,3.0,,3000.0,,Casual work,Technicians and associate professionals
@@ -4777,7 +4777,7 @@ Yes,,,5.0,8.0,16000.0,Yes,,,5.0,8.0,,16000.0,,Regular job,Professionals
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,6.0,10.0,,Yes,,,4.0,2.0,,,,Regular job,Technicians and associate professionals
 Yes,,,5.0,8.0,16500.0,Yes,,,5.0,8.0,,16500.0,,Regular job,Managers
-Yes,,,3.0,5.0,100000.0,Yes,,,,,Nothing / Lost money,,,I run a business,
+Yes,,,3.0,5.0,100000.0,Yes,,,,,,,,I run a business,
 Yes,,,1.0,7.0,2000.0,Yes,,,1.0,7.0,,2000.0,,Regular job,Clerical support workers
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,7.0,12.0,40000.0,No,No,No - I did nothing,,,,,,,
@@ -4785,7 +4785,7 @@ Yes,,,5.0,9.0,5000.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,5.0,10.0,12500.0,Yes,,,3.0,12.0,,12500.0,,Regular job,Clerical support workers
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,4.0,16.0,20000.0,Yes,,,1.0,8.0,,15000.0,,Regular job,"Plant and machine operators, and assemblers"
 Yes,,,5.0,9.0,15000.0,Yes,,,5.0,9.0,,15000.0,,Regular job,Clerical support workers
 Yes,,,5.0,5.0,0.0,No,No,No - I did nothing,,,,,No,,
@@ -4797,7 +4797,7 @@ Yes,,,5.0,12.0,9000.0,Yes,,,5.0,12.0,,9000.0,,Regular job,Professionals
 "No, I'm retired",,,,,,,,,,,,,,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,5.0,8.0,,Yes,,,5.0,4.0,,15000.0,,Regular job,Professionals
-Yes,,,5.0,9.0,26000.0,No,No,No - I'm employed,,,Nothing / Lost money,,,I run a business,
+Yes,,,5.0,9.0,26000.0,No,No,No - I'm employed,,,,,,I run a business,
 Yes,,,5.0,5.0,80000.0,Yes,,,,,50000.0,,,I run a business,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,5000.0,No,,No - I did nothing,,,,,No,,
@@ -4863,7 +4863,7 @@ Yes,,,5.0,7.0,20000.0,Yes,,,7.0,8.0,,20000.0,,Regular job,Professionals
 Yes,,,5.0,4.0,11000.0,Yes,,,,,4000.0,,,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,4.0,7.0,,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,5.0,100000.0,Yes,,,5.0,5.0,,100000.0,,Regular job,
 No,Yes,,1.0,4.0,200.0,Yes,,,1.0,2.0,,,,Casual work,Elementary occupations
@@ -4885,7 +4885,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,6.0,15000.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,6.0,15000.0,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,5.0,34000.0,Yes,,,5.0,6.0,,29000.0,,Regular job,Professionals
@@ -4905,7 +4905,7 @@ Yes,,,5.0,9.0,,Yes,,,5.0,9.0,,,,Regular job,Technicians and associate profession
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,,,,Yes,,,3.0,5.0,,1300.0,,Regular job,Clerical support workers
 Yes,,,5.0,8.0,15000.0,Yes,,,2.0,8.0,,15000.0,,Regular job,Managers
-Yes,,,5.0,8.0,40000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+Yes,,,5.0,8.0,40000.0,No,No,No - I did nothing,,,,,Yes,I run a business,
 Yes,,,6.0,4.0,15000.0,No,No,No - I did nothing,0.0,0.0,,,Yes,,Service and sales workers
 Yes,,,5.0,8.0,15000.0,No,No,No - I'm employed,0.0,0.0,,15000.0,,Regular job,Professionals
 Yes,,,5.0,8.0,,Yes,,,5.0,8.0,,,,Regular job,Technicians and associate professionals
@@ -4918,7 +4918,7 @@ Yes,,,5.0,12.0,29000.0,Yes,,,7.0,12.0,,29000.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
-No,No,Yes,7.0,2.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,7.0,2.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,8.0,15000.0,No,No,Yes,0.0,0.0,,15000.0,,Regular job,Professionals
 No,No,Yes,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -4942,7 +4942,7 @@ Yes,,,5.0,8.0,9000.0,Yes,,,0.0,8.0,,5000.0,,Regular job,Clerical support workers
 Yes,,,5.0,9.0,,Yes,,,5.0,9.0,,25000.0,,Regular job,"Plant and machine operators, and assemblers"
 Yes,,,5.0,8.0,5000.0,Yes,,,,,8000.0,,,Self-employed,
 Yes,,,7.0,8.0,,Yes,,,7.0,8.0,,,,Regular job,Clerical support workers
-Yes,,,5.0,8.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+Yes,,,5.0,8.0,,No,No,No - I did nothing,,,,,Yes,I run a business,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,8.0,,Yes,,,5.0,7.0,,,,Regular job,Professionals
@@ -4953,11 +4953,11 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,7.0,8.0,29000.0,Yes,,,7.0,8.0,,29000.0,,Regular job,Professionals
 Yes,,,5.0,5.0,22000.0,Yes,,,5.0,3.0,,22000.0,,Regular job,Technicians and associate professionals
-Yes,,,5.0,7.0,15000.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,7.0,15000.0,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,4.0,8.0,15000.0,Yes,,,,,15000.0,,,Self-employed,
-Yes,,,5.0,8.0,20000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,8.0,20000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,7.0,6.0,300.0,Yes,,,,,500.0,,,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -4972,7 +4972,7 @@ Yes,,,6.0,4.0,,Yes,,,,,,,,I run a business,
 Yes,,,6.0,8.0,12000.0,No,No,No - I did nothing,0.0,0.0,,12000.0,Yes,Regular job,"Plant and machine operators, and assemblers"
 Yes,,,5.0,9.0,8000.0,Yes,,,5.0,9.0,,8000.0,,Regular job,"Plant and machine operators, and assemblers"
 Yes,,,1.0,5.0,500.0,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,8.0,20000.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,8.0,20000.0,No,No,No - I'm employed,,,,,,Self-employed,
 Yes,,,5.0,8.0,14000.0,Yes,,,5.0,8.0,,14000.0,,Regular job,Managers
 Yes,,,5.0,6.0,5000.0,No,No,No - I did nothing,0.0,0.0,,,Yes,Regular job,Craft and related trades workers
 Yes,,,7.0,8.0,400.0,No,No,No - I did nothing,,,,,No,,
@@ -4994,7 +4994,7 @@ Yes,,,7.0,8.0,,Yes,,,3.0,2.0,,,,Regular job,Managers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,18000.0,Yes,,,5.0,8.0,,18000.0,,Regular job,Professionals
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,7.0,16.0,0.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,7.0,16.0,0.0,Yes,,,,,,,,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,3300.0,Yes,,,5.0,8.0,,3300.0,,Regular job,"Skilled agricultural, forestry and fishery workers"
@@ -5054,7 +5054,7 @@ Yes,,,6.0,8.0,5500.0,Yes,,,6.0,8.0,,,,Regular job,Service and sales workers
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
-Yes,,,4.0,8.0,7000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,4.0,8.0,7000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,Yes,7.0,11.0,,No,No,Yes,,,,,,I run a business,
 "No, I'm retired",,,,,,,,,,,,,,,
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -5073,12 +5073,12 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,Yes,,,20.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,3000.0,,Yes,Self-employed,
-Yes,,,5.0,8.0,4000.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+Yes,,,5.0,8.0,4000.0,No,No,No - I'm employed,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,5.0,5.0,1700.0,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
-No,No,Yes,7.0,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,No,Yes,7.0,,,No,No,No - I did nothing,,,,,Yes,I run a business,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,3.0,11.0,,Yes,,,3.0,11.0,,,,Casual work,Elementary occupations
@@ -5145,7 +5145,7 @@ Yes,,,2.0,7.0,780.0,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,2000.0,No,No,No - I'm employed,,,,2000.0,,Casual work,"Plant and machine operators, and assemblers"
-No,No,Yes,7.0,,,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+No,No,Yes,7.0,,,No,No,No - I'm employed,,,,,,Self-employed,
 Yes,,,7.0,9.0,1500.0,Yes,,,7.0,9.0,,1500.0,,Regular job,"Plant and machine operators, and assemblers"
 Yes,,,4.0,6.0,780.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5182,7 +5182,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,3.0,10.0,600.0,No,No,Yes,,,Nothing / Lost money,,,Self-employed,
+No,Yes,,3.0,10.0,600.0,No,No,Yes,,,,,,Self-employed,
 Yes,,,6.0,6.0,2605.0,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,Yes,,,,,2000.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5265,7 +5265,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I'm employed,,,,,,,Not Employed
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,,Yes,Casual work,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,2.0,8.0,1100.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,2.0,8.0,1100.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,7.0,,No,No,No - I did nothing,0.0,0.0,,,Yes,Regular job,Clerical support workers
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,Yes,6.0,,2600.0,No,No,No - I did nothing,,,,,No,,
@@ -5307,7 +5307,7 @@ Yes,,,,,250.0,No,Yes,,,,,,,Regular job,Elementary occupations
 No,Yes,,,,1500.0,No,Yes,,,,,1500.0,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,8.0,1000.0,No,No,No - I did nothing,,,,,No,,
-No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5406,7 +5406,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,,,,No,No,No - I'm employed,,,,,,,Not Employed
-No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,,,,,,Self-employed,
 Yes,,,5.0,8.0,14000.0,Yes,,,5.0,5.0,,30000.0,,Regular job,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
@@ -5438,7 +5438,7 @@ No,No,No - I'm employed,,,,,No,No - I did nothing,,,,,,,
 Yes,,,5.0,7.0,1200.0,Yes,,,5.0,7.0,,1200.0,,Casual work,Service and sales workers
 Yes,,,4.0,12.0,12000.0,Yes,,,4.0,12.0,,12000.0,,Regular job,Service and sales workers
 Yes,,,5.0,8.0,1000.0,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,I run a business,
 Yes,,,7.0,,180.0,Yes,,,7.0,,,900.0,,Regular job,Elementary occupations
 Yes,,,4.0,12.0,,Yes,,,4.0,12.0,,,,Casual work,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5590,7 +5590,7 @@ Yes,,,5.0,9.0,2000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,12000.0,Yes,,,5.0,8.0,,,,Regular job,"Plant and machine operators, and assemblers"
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,6.0,9.0,12000.0,Yes,,,6.0,9.0,,12000.0,,Regular job,Managers
-No,No,Yes,5.0,5.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,5.0,5.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,8.0,2000.0,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5660,7 +5660,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,,Yes,Regular job,P
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Not Employed
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,4.0,8.0,2000.0,No,No,No - I did nothing,,,,,No,,
-Yes,,,7.0,10.0,20000.0,No,Yes,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,7.0,10.0,20000.0,No,Yes,,,,,,,Self-employed,
 No,Yes,,,,600.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,6.0,1000.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5714,7 +5714,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,8.0,3800.0,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,Yes,,,,,Nothing / Lost money,,,Self-employed,
+No,No,No - I did nothing,,,,Yes,,,,,,,,Self-employed,
 Yes,,,5.0,,2500.0,No,No,No - I did nothing,0.0,0.0,,,Yes,Casual work,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5842,7 +5842,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,5.0,9.0,500.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,10.0,13500.0,Yes,,,5.0,8.0,,13500.0,,Regular job,Professionals
 "No, I'm retired",,,,,,,,,,,,,,,
-Yes,,,3.0,6.0,300.0,No,No,Yes,,,Nothing / Lost money,,,I run a business,
+Yes,,,3.0,6.0,300.0,No,No,Yes,,,,,,I run a business,
 Yes,,,6.0,10.0,25000.0,Yes,,,,,18000.0,,,I run a business,
 No,No,Yes,5.0,7.0,600.0,No,No,No - I did nothing,,,,,No,,
 No,No,Yes,5.0,4.0,,No,No,No - I did nothing,,,,,No,,
@@ -5925,8 +5925,8 @@ No,No,Yes,3.0,7.0,650.0,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,5.0,8.0,19000.0,Yes,,,5.0,8.0,,19000.0,,Regular job,Technicians and associate professionals
 "No, I'm retired",,,,,,,,,,,,,,,
-Yes,,,7.0,8.0,800.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
-Yes,,,2.0,7.0,780.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,7.0,8.0,800.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
+Yes,,,2.0,7.0,780.0,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,1.0,2.0,150.0,No,Yes,,2.0,2.0,,150.0,,Regular job,Elementary occupations
 Yes,,,3.0,8.0,500.0,No,No,No - I did nothing,,,,,,,
@@ -5951,7 +5951,7 @@ Yes,,,5.0,6.0,5800.0,No,Yes,,0.0,0.0,,5800.0,,Regular job,Professionals
 Yes,,,4.0,8.0,1320.0,No,No,No - I did nothing,,,,,,,
 Yes,,,6.0,9.0,2500.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,Yes,,0.0,0.0,0.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,Yes,,0.0,0.0,0.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,4.0,8.0,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -5979,7 +5979,7 @@ Yes,,,2.0,8.0,2000.0,Yes,,,,,700.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,Yes,,6.0,8.0,4200.0,No,No,No - I did nothing,,,,4500.0,Yes,Regular job,Clerical support workers
@@ -5995,7 +5995,7 @@ Yes,,,5.0,8.0,5000.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,,,,,,Yes,,Not Employed
 Yes,,,2.0,8.0,700.0,Yes,,,,,700.0,,,Self-employed,
-No,Yes,,0.0,1.0,,No,No,No - I'm employed,,,Nothing / Lost money,,,Self-employed,
+No,Yes,,0.0,1.0,,No,No,No - I'm employed,,,,,,Self-employed,
 Yes,,,5.0,10.0,1900.0,Yes,,,5.0,9.0,,,,Regular job,Clerical support workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Casual work,Elementary occupations
@@ -6009,7 +6009,7 @@ Yes,,,5.0,8.0,,Yes,,,,,24000.0,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,,,,Yes,,,,,,,,Casual work,"Skilled agricultural, forestry and fishery workers"
 Yes,,,2.0,8.0,700.0,No,No,No - I'm employed,0.0,0.0,,700.0,,Regular job,Elementary occupations
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,Yes,0.0,0.0,0.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,,,1500.0,No,No,No - I'm employed,0.0,0.0,,,,Regular job,Elementary occupations
@@ -6148,7 +6148,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,1800.0,No,No,No - I did nothing,0.0,0.0,,,Yes,Casual work,Clerical support workers
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,Yes,6.0,3.0,210.0,No,No,Yes,,,Nothing / Lost money,,,Self-employed,
+No,No,Yes,6.0,3.0,210.0,No,No,Yes,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -6209,7 +6209,7 @@ Yes,,,5.0,8.0,750.0,No,No,No - I did nothing,,,,,,,
 Yes,,,5.0,8.0,2100.0,No,No,No - I did nothing,,,,,,,
 Yes,,,7.0,8.0,6000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,9.0,2000.0,Yes,,,5.0,9.0,,2500.0,,Regular job,"Plant and machine operators, and assemblers"
-No,No,Yes,5.0,9.0,2000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,5.0,9.0,2000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,9.0,,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Regular job,Technicians and associate professionals
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -6326,7 +6326,7 @@ No,No,No - I did nothing,,,,No,Yes,,2.0,0.0,,,,Casual work,Craft and related tra
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,9.0,1700.0,Yes,,,5.0,9.0,,,,Regular job,Clerical support workers
-No,Yes,,7.0,6.0,500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,Yes,,7.0,6.0,500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,7.0,9.0,8200.0,No,,,,,,,,,
@@ -6454,7 +6454,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,,,2000.0,Yes,,,,,6000.0,,,I run a business,
 Yes,,,2.0,10.0,5000.0,Yes,,,3.0,10.0,,,,Regular job,Service and sales workers
-Yes,,,5.0,4.0,70000.0,No,Yes,,,,Nothing / Lost money,,,I run a business,
+Yes,,,5.0,4.0,70000.0,No,Yes,,,,,,,I run a business,
 Yes,,,,,,Yes,,,,,,,,Regular job,Clerical support workers
 No,No,No - I did nothing,,,,Yes,,,5.0,8.0,,,,Casual work,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -6465,11 +6465,11 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
 No,No,No - I'm employed,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,5.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,5.0,5.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,7.0,8.0,1500.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,7.0,8.0,1500.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,8.0,4700.0,No,Yes,,,,,4000.0,,Regular job,Service and sales workers
 Yes,,,5.0,,500.0,Yes,,,2.0,,,,,Casual work,Elementary occupations
 Yes,,,7.0,8.0,4000.0,No,No,No - I did nothing,,,,,No,,
@@ -6477,7 +6477,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 Yes,,,4.0,6.0,,No,Yes,,0.0,,,,,Regular job,Technicians and associate professionals
-No,No,No - I did nothing,,,,No,Yes,,,,Nothing / Lost money,,,Self-employed,
+No,No,No - I did nothing,,,,No,Yes,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,0.0,0.0,,0.0,Yes,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I did nothing,,,,,No,,
@@ -6635,7 +6635,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,8.0,,No,No,No - I'm employed,0.0,8.0,,,,Regular job,Elementary occupations
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,7.0,12.0,3000.0,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+Yes,,,7.0,12.0,3000.0,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 ,,,,,,,,,,,,,,,
 Yes,,,7.0,9.0,6500.0,Yes,,,7.0,9.0,,6500.0,,Casual work,"Plant and machine operators, and assemblers"
@@ -6689,7 +6689,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-Yes,,,5.0,8.0,500.0,No,No,Yes,,,Nothing / Lost money,,,I run a business,
+Yes,,,5.0,8.0,500.0,No,No,Yes,,,,,,I run a business,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,2400.0,Yes,Casual work,
 No,No,No - I'm employed,,,,No,No,No - I'm employed,,,,,,I run a business,
 Yes,,,5.0,6.0,800.0,Yes,,,6.0,6.0,,,,Casual work,Service and sales workers
@@ -6808,7 +6808,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,6.0,10000.0,Yes,,,2.0,2.0,,5000.0,,Regular job,Managers
 "No, I'm retired",,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 Yes,,,5.0,9.0,4000.0,No,No,No - I did nothing,0.0,0.0,,4000.0,Yes,Casual work,Clerical support workers
 Yes,,,4.0,8.0,3800.0,No,Yes,,4.0,8.0,,4100.0,,Regular job,Craft and related trades workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -6818,7 +6818,7 @@ No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,Yes,7.0,15.0,3000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,4.0,8.0,3000.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,9.0,3200.0,Yes,,,5.0,9.0,,,,Regular job,Elementary occupations
-No,No,Yes,5.0,5.0,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,Self-employed,
+No,No,Yes,5.0,5.0,,No,No,No - I did nothing,,,,,Yes,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -6894,7 +6894,7 @@ No,No,Yes,3.0,,200.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 "No, I'm retired",,,,,,,,,,,,,,,
 "No, I'm retired",,,,,,,,,,,,,,,
-Yes,,,3.0,6.0,4900.0,Yes,,,,,Nothing / Lost money,,,Self-employed,
+Yes,,,3.0,6.0,4900.0,Yes,,,,,,,,Self-employed,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,9.0,2400.0,No,No,Yes,0.0,,,,,Regular job,Craft and related trades workers
@@ -6923,7 +6923,7 @@ No,No,No - I'm employed,0.0,0.0,0.0,No,No,No - I'm employed,0.0,0.0,,,,,Service 
 ,,,,,,,,,,,,,,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,11.0,12000.0,Yes,,,2.0,8.0,,5000.0,,Regular job,Professionals
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,I run a business,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,5.0,16.0,13000.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
@@ -6964,7 +6964,7 @@ Yes,,,5.0,10.0,0.0,No,No,No - I did nothing,,,,,No,,
 Yes,,,0.0,0.0,,No,No,No - I'm employed,,,300.0,,,Self-employed,
 Yes,,,5.0,9.0,4000.0,No,No,No - I did nothing,0.0,0.0,,,Yes,Regular job,Service and sales workers
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,,,
-No,No,No - I did nothing,,,,No,No,No - I did nothing,,,Nothing / Lost money,,Yes,I run a business,
+No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,Yes,I run a business,
 No,Yes,,3.0,8.0,350.0,No,No,No - I did nothing,,,,,No,,
 No,No,No - I did nothing,,,,No,No,No - I did nothing,,,,,No,,
 Yes,,,3.0,7.0,1600.0,No,No,No - I did nothing,0.0,0.0,,,Yes,Casual work,Elementary occupations
