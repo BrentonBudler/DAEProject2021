@@ -1,0 +1,1 @@
+This was simply made because the database would not allow submissions without a file attached in the video section.
